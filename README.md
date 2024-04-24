@@ -14,27 +14,27 @@
 6. A. Golatkar, A. Achille, and S. Soatto, **"Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations,"** in European Conference on Computer Vision, 2020, vol. 12374 LNCS, pp. 383–398, doi: 10.1007/978-3-030-58526-6_23.
 7. C. Guo, T. Goldstein, A. Hannun, and L. van der Maaten, **"Certified data removal from machine learning models,"** in 37th International Conference on Machine Learning, ICML 2020, 2020, vol. PartF16814, no. i, pp. 3790–3800.
 8. A. Golatkar, A. Achille, and S. Soatto, **"Eternal sunshine of the spotless net: Selective forgetting in deep networks,"** in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2020, pp. 9301–9309, doi: 10.1109/CVPR42600.2020.00932.
-9. S. Badillo et al., **"An Introduction to Machine UnLearning,"** 2020. .
+9. S. Badillo et al., **"An Introduction to Machine UnLearning,"** 2020, arXiv preprint arXiv:2209.00939.
 10. Q. P. Nguyen, B. K. Hsiang Low, and P. Jaillet, **"Variational Bayesian unlearning,"** in Advances in Neural Information Processing Systems, 2020, vol. 2020-Decem, no. NeurIPS, pp. 1–12.
 11. J. Brophy and D. Lowd, **"Machine Unlearning for Random Forests,"** in International Conference on Machine Learning, Sep. 2020, pp. 1092--1104.
 ## 2021
-12. T. Shibata, G. Irie, D. Ikami, and Y. Mitsuzumi, **"Learning with Selective Forgetting,"** in IJCAI International Joint Conference on Artificial Intelligence, 2021, pp. 989–996, doi: 10.24963/ijcai.2021/137.
+12. L. Bourtoule et al., **"Machine Unlearning,"** in 2021 IEEE Symposium on Security and Privacy (SP), May 2021, vol. 2021-May, pp. 141–159, doi: 10.1109/SP40001.2021.00019.
 13. A. Golatkar, A. Achille, A. Ravichandran, M. Polito, and S. Soatto, **"Mixed-Privacy Forgetting in Deep Networks,"** in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2021, pp. 792–801, doi: 10.1109/CVPR46437.2021.00085.
 14. S. Schelter, S. Grafberger, and T. Dunning, **"HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning,"** in Proceedings of the ACM SIGMOD International Conference on Management of Data, 2021, pp. 1545–1557, doi: 10.1145/3448016.3457239.
 15. L. Graves, V. Nagisetty, and V. Ganesh, **"Amnesiac Machine Learning,"** in 35th AAAI Conference on Artificial Intelligence, AAAI 2021, 2021, vol. 13A, pp. 11516–11524, doi: 10.1609/aaai.v35i13.17371.
 16. M. Chen, Z. Zhang, T. Wang, M. Backes, M. Humbert, and Y. Zhang, **"When Machine Unlearning Jeopardizes Privacy,"** in Proceedings of the ACM Conference on Computer and Communications Security, 2021, pp. 896–911, doi: 10.1145/3460120.3484756.
-17. L. Bourtoule et al., **"Machine Unlearning,"** in 2021 IEEE Symposium on Security and Privacy (SP), May 2021, vol. 2021-May, pp. 141–159, doi: 10.1109/SP40001.2021.00019.
+17. T. Shibata, G. Irie, D. Ikami, and Y. Mitsuzumi, **"Learning with Selective Forgetting,"** in IJCAI International Joint Conference on Artificial Intelligence, 2021, pp. 989–996, doi: 10.24963/ijcai.2021/137.
 18. V. Gupta, C. Jung, S. Neel, A. Roth, S. Sharifi-Malvajerdi, and C. Waites, **"Adaptive Machine Unlearning,"** in Advances in Neural Information Processing Systems, 2021, vol. 20, no. NeurIPS, pp. 16319–16330.
 19. A. Sekhari, J. Acharya, G. Kamath, and A. T. Suresh, **"Remember What YouWant to Forget: Algorithms for Machine Unlearning,"** in Advances in Neural Information Processing Systems, 2021, vol. 22, no. NeurIPS, pp. 18075–18086.
 ## 2022 
-20. C. Pan and E. Chien, **"Unlearning Graph Classifiers with Limited Data Resources,"** in WWW, 2022, pp. 716–726, doi: 10.1145/3543507.3583547.
-21. Y. Jiang, S. Liu, T. Zhao, W. Li, and X. Gao, **"Machine unlearning survey,"** CSUR, p. 5, 2022, doi: 10.1117/12.2660330.
+20. Y. Jiang, S. Liu, T. Zhao, W. Li, and X. Gao, **"Machine Unlearning: A Survey,"** ACM Computing Survey (CSUR), pp 1–36, 2022, doi: 10.1145/3603620.
+21. A. Thudi, H. Jia, I. Shumailov, and N. Papernot, **"On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning,"** in Proceedings of the 31st USENIX Security Symposium, Security 2022, 2022, pp. 4007–4022.
 22. T. Baumhauer, P. Schöttle, and M. Zeppelzauer, **"Machine unlearning: linear filtration for logit-based classifiers,"** Machine Learning, vol. 111, no. 9, pp. 3203–3226, 2022, doi: 10.1007/s10994-022-06178-9.
-23. N. Carlini, M. Jagielski, C. Zhang, N. Papernot, A. Terzis, and F. Tramer, **"The Privacy Onion Effect: Memorization is Relative,"** 2022.
-24. V. M. Suriyakumar and A. C. Wilson, **"Algorithms that Approximate Data Removal: New Results and Limitations,"** 2022.
-25. R. Tanno, M. F. Pradier, A. Nori, and Y. Li, **"Repairing Neural Networks by Leaving the Right Past Behind,"** in Advances in Neural Information Processing Systems, 2022, pp. 1–14.
-26. X. Lu et al., **"Quark: Controllable Text Generation with Reinforced Unlearning,"** 2022.
-27. Z. Zhang, Y. Zhou, X. Zhao, T. Che, and L. Lyu, **"Prompt Certified Machine Unlearning with Randomized Gradient Smoothing and Quantization,"** in Advances in Neural Information Processing Systems, 2022, no. NeurIPS, pp. 1–23.
+23. N. Carlini, M. Jagielski, C. Zhang, N. Papernot, A. Terzis, and F. Tramer, **"The Privacy Onion Effect: Memorization is Relative,"** 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
+24. V. M. Suriyakumar and A. C. Wilson, **"Algorithms that Approximate Data Removal: New Results and Limitations,"**  36th Conference on Neural Information Processing Systems (NeurIPS 2022).
+25. R. Tanno, M. F. Pradier, A. Nori, and Y. Li, **"Repairing Neural Networks by Leaving the Right Past Behind,"**  36th Conference on Neural Information Processing Systems (NeurIPS 2022), pp. 1–14.
+26. X. Lu et al., **"Quark: Controllable Text Generation with Reinforced Unlearning,"** 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
+27. Z. Zhang, Y. Zhou, X. Zhao, T. Che, and L. Lyu, **"Prompt Certified Machine Unlearning with Randomized Gradient Smoothing and Quantization,"** 36th Conference on Neural Information Processing Systems (NeurIPS 2022), pp. 1–23.
 28. G. Wu, M. Hashemi, and C. Srinivasa, **"PUMA: Performance Unchanged Model Augmentation for Training Data Removal,"** in Proceedings of the 36th AAAI Conference on Artificial Intelligence, AAAI 2022, 2022, vol. 36, pp. 8675–8682, doi: 10.1609/aaai.v36i8.20846.
 29. R. Mehta, S. Pal, V. Singh, and S. N. Ravi, **"Deep Unlearning via Randomized Conditionally Independent Hessians,"** in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2022, vol. 2022-June, pp. 10412–10421, doi: 10.1109/CVPR52688.2022.01017.
 30. H. Yan, X. Li, Z. Guo, H. Li, F. Li, and X. Lin, **"ARCANE: An Efficient Architecture for Exact Machine Unlearning,"** in IJCAI International Joint Conference on Artificial Intelligence, 2022, pp. 4006–4013, doi: 10.24963/ijcai.2022/556.
@@ -46,8 +46,8 @@
 36. M. Chen, Z. Zhang, T. Wang, M. Backes, M. Humbert, and Y. Zhang, **"Graph Unlearning,"** in Proceedings of the ACM Conference on Computer and Communications Security, 2022, pp. 499–513, doi: 10.1145/3548606.3559352.
 37. Y. Liu et al., **"Backdoor Defense with Machine Unlearning,"** in Proceedings - IEEE INFOCOM, 2022, vol. 2022-May, pp. 280–289, doi: 10.1109/INFOCOM48880.2022.9796974.
 38. C. Chen, F. Sun, M. Zhang, and B. Ding, **"Recommendation Unlearning,"** in WWW 2022 - Proceedings of the ACM Web Conference 2022, 2022, pp. 2768–2777, doi: 10.1145/3485447.3511997.
-39. T. T. Nguyen, T. T. Huynh, P. Le Nguyen, A. W.-C. Liew, H. Yin, and Q. V. H. Nguyen, **"A Survey of Machine Unlearning,"** 2022. http://arxiv.org/abs/2209.02299.
-40. A. Thudi, H. Jia, I. Shumailov, and N. Papernot, **"On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning,"** in Proceedings of the 31st USENIX Security Symposium, Security 2022, 2022, pp. 4007–4022.
+39. T. T. Nguyen, T. T. Huynh, P. Le Nguyen, A. W.-C. Liew, H. Yin, and Q. V. H. Nguyen, **"A Survey of Machine Unlearning,"** 2022, http://arxiv.org/abs/2209.02299.
+40. C. Pan and E. Chien, **"Unlearning Graph Classifiers with Limited Data Resources,"** in Proceedings of the ACM Web Conference 2023, pp. 716–726, doi: 10.1145/3543507.3583547.
 ## 2023 
 41. J. Xu, Z. Wu, C. Wang, and X. Jia, **"Machine Unlearning: Solutions and Challenges,"** IEEE Transactions on Emerging Topics in Computational Intelligence, vol. PP, pp. 1–19, 2023, doi: 10.1109/TETCI.2024.3379240.
 42. H. Lin, J. W. Chung, Y. Lao, and W. Zhao, **"Machine Unlearning in Gradient Boosting Decision Trees,"** in Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Aug. 2023, pp. 1374–1383, doi: 10.1145/3580305.3599420.
