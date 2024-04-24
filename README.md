@@ -1,11 +1,11 @@
  # Machine Unlearning
-* [2015-2021](#2015-2021)
+* [2015-2020](#2015-2020)
+* [2021](#2021)
 * [2022](#2022)
 * [2023](#2023)
 * [2024](#2024)
   
-## 2015-2021 
-
+## 2015-2020 
 1. Y. Cao and J. Yang, **"Towards making systems forget with machine unlearning,"** in Proceedings - IEEE Symposium on Security and Privacy, 2015, vol. 2015-July, pp. 463–480, doi: 10.1109/SP.2015.35.
 2. B. Mirzasoleiman, A. Karbasi, and A. Krause, **"Deletion-robust submodular maximization: Data summarization with ‘the right to be forgotten,’"** in 34th International Conference on Machine Learning, ICML 2017, 2017, vol. 5, pp. 3780–3790.
 3. A. A. Ginart, M. Y. Guan, G. Valiant, and J. Zou, **"Making AI forget you: Data deletion in machine learning,"** in Advances in Neural Information Processing Systems, 2019, vol. 32, no. NeurIPS, pp. 1–14.
@@ -17,6 +17,7 @@
 9. S. Badillo et al., **"An Introduction to Machine UnLearning,"** 2020. .
 10. Q. P. Nguyen, B. K. Hsiang Low, and P. Jaillet, **"Variational Bayesian unlearning,"** in Advances in Neural Information Processing Systems, 2020, vol. 2020-Decem, no. NeurIPS, pp. 1–12.
 11. J. Brophy and D. Lowd, **"Machine Unlearning for Random Forests,"** in International Conference on Machine Learning, Sep. 2020, pp. 1092--1104.
+## 2021
 12. T. Shibata, G. Irie, D. Ikami, and Y. Mitsuzumi, **"Learning with Selective Forgetting,"** in IJCAI International Joint Conference on Artificial Intelligence, 2021, pp. 989–996, doi: 10.24963/ijcai.2021/137.
 13. A. Golatkar, A. Achille, A. Ravichandran, M. Polito, and S. Soatto, **"Mixed-Privacy Forgetting in Deep Networks,"** in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2021, pp. 792–801, doi: 10.1109/CVPR46437.2021.00085.
 14. S. Schelter, S. Grafberger, and T. Dunning, **"HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning,"** in Proceedings of the ACM SIGMOD International Conference on Management of Data, 2021, pp. 1545–1557, doi: 10.1145/3448016.3457239.
@@ -73,8 +74,8 @@
 63. R. Chen et al., **"Fast Model Debias with Machine Unlearning,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2023, no. NeurIPS, pp. 1–24.
 64. J. Jia et al., **"Model Sparsity Can Simplify Machine Unlearning,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2023, no. NeurIPS, pp. 1–22.
 65. Y. Li, D. Meng, and J. Wang, **"UltraRE : Enhancing RecEraser for Recommendation Unlearning via Error Decomposition,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2023, no. ML.
-## 2024
 66. A. Oesterling, J. Ma, F. P. Calmon, and H. Lakkaraju, **"Fair Machine Unlearning: Data Removal while Mitigating Disparities,"** in Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024, 2023, vol. 238.
+## 2024
 67. Y. Zhao, C. Li, and K. Chen, **"UMA: Facilitating Backdoor Scanning via Unlearning-Based Model Ablation,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 19, pp. 21823–21831, 2024, doi: 10.1609/aaai.v38i19.30183.
 68. Z. Liu, T. Wang, M. Huai, and C. Miao, **"Backdoor Attacks via Machine Unlearning,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 13, pp. 14115–14123, Mar. 2024, doi: 10.1609/aaai.v38i13.29321.
 69. X. Li, Y. Zhao, Z. Wu, W. Zhang, R. H. Li, and G. Wang, **"Towards Effective and General Graph Unlearning via Mutual Evolution,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 12, pp. 13682–13690, 2024, doi: 10.1609/aaai.v38i12.29273.
