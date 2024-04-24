@@ -6,10 +6,10 @@
 * [2024](#2024)
   
 ## 2015-2020 
-1. Y. Cao and J. Yang, **"Towards making systems forget with machine unlearning,"** in Proceedings - IEEE Symposium on Security and Privacy, 2015, vol. 2015-July, pp. 463–480, doi: 10.1109/SP.2015.35.
+1. Y. Cao and J. Yang, **"Towards making systems forget with machine unlearning,"** in 2015 IEEE Symposium on Security and Privacy (SP), 2015, vol. 2015-July, pp. 463–480, doi: 10.1109/SP.2015.35.
 2. B. Mirzasoleiman, A. Karbasi, and A. Krause, **"Deletion-robust submodular maximization: Data summarization with ‘the right to be forgotten,’"** in 34th International Conference on Machine Learning, ICML 2017, 2017, vol. 5, pp. 3780–3790.
 3. A. A. Ginart, M. Y. Guan, G. Valiant, and J. Zou, **"Making AI forget you: Data deletion in machine learning,"** in Advances in Neural Information Processing Systems, 2019, vol. 32, no. NeurIPS, pp. 1–14.
-4. M. Jagielski, J. Ullman, and A. Oprea, **"Auditing differentially private machine learning: How private is private SGD?,"** Advances in Neural Information Processing Systems, vol. 2020-Decem, no. NeurIPS, pp. 1–12, 2020.
+4. M. Jagielski, J. Ullman, and A. Oprea, **"Auditing differentially private machine learning: How private is private SGD?,"** Advances in Neural Information Processing Systems, vol. 2020, no. NeurIPS, pp. 1–12, 2020.
 5. Y. Wu, E. Dobriban, and S. B. Davidson, **"DeltaGrad: Rapid retraining of machine learning models,"** in 37th International Conference on Machine Learning, ICML 2020, 2020, vol. PartF16814, pp. 10286–10297.
 6. A. Golatkar, A. Achille, and S. Soatto, **"Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations,"** in European Conference on Computer Vision, 2020, vol. 12374 LNCS, pp. 383–398, doi: 10.1007/978-3-030-58526-6_23.
 7. C. Guo, T. Goldstein, A. Hannun, and L. van der Maaten, **"Certified data removal from machine learning models,"** in 37th International Conference on Machine Learning, ICML 2020, 2020, vol. PartF16814, no. i, pp. 3790–3800.
