@@ -9,14 +9,14 @@
 1. Y. Cao and J. Yang, **"Towards making systems forget with machine unlearning,"** in 2015 IEEE Symposium on Security and Privacy (SP), 2015, vol. 2015-July, pp. 463–480, doi: 10.1109/SP.2015.35.
 2. B. Mirzasoleiman, A. Karbasi, and A. Krause, **"Deletion-robust submodular maximization: Data summarization with ‘the right to be forgotten,’"** in 34th International Conference on Machine Learning, ICML 2017, 2017, vol. 5, pp. 3780–3790.
 3. A. A. Ginart, M. Y. Guan, G. Valiant, and J. Zou, **"Making AI forget you: Data deletion in machine learning,"** in Advances in Neural Information Processing Systems, 2019, vol. 32, no. NeurIPS, pp. 1–14.
-4. M. Jagielski, J. Ullman, and A. Oprea, **"Auditing differentially private machine learning: How private is private SGD?,"** Advances in Neural Information Processing Systems, vol. 2020, no. NeurIPS, pp. 1–12, 2020.
+4.  Q. P. Nguyen, B. K. Hsiang Low, and P. Jaillet, **"Variational Bayesian unlearning,"** in Advances in Neural Information Processing Systems, 2020, vol. 2020-Decem, no. NeurIPS, pp. 1–12.
 5. Y. Wu, E. Dobriban, and S. B. Davidson, **"DeltaGrad: Rapid retraining of machine learning models,"** in 37th International Conference on Machine Learning, ICML 2020, 2020, vol. PartF16814, pp. 10286–10297.
 6. A. Golatkar, A. Achille, and S. Soatto, **"Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations,"** in European Conference on Computer Vision, 2020, vol. 12374 LNCS, pp. 383–398, doi: 10.1007/978-3-030-58526-6_23.
 7. C. Guo, T. Goldstein, A. Hannun, and L. van der Maaten, **"Certified data removal from machine learning models,"** in 37th International Conference on Machine Learning, ICML 2020, 2020, vol. PartF16814, no. i, pp. 3790–3800.
 8. A. Golatkar, A. Achille, and S. Soatto, **"Eternal sunshine of the spotless net: Selective forgetting in deep networks,"** in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2020, pp. 9301–9309, doi: 10.1109/CVPR42600.2020.00932.
 9. S. Badillo et al., **"An Introduction to Machine UnLearning,"** 2020, arXiv preprint arXiv:2209.00939.
-10. Q. P. Nguyen, B. K. Hsiang Low, and P. Jaillet, **"Variational Bayesian unlearning,"** in Advances in Neural Information Processing Systems, 2020, vol. 2020-Decem, no. NeurIPS, pp. 1–12.
-11. J. Brophy and D. Lowd, **"Machine Unlearning for Random Forests,"** in International Conference on Machine Learning, Sep. 2020, pp. 1092--1104.
+10. J. Brophy and D. Lowd, **"Machine Unlearning for Random Forests,"** in International Conference on Machine Learning, Sep. 2020, pp. 1092--1104.
+11. A. Golatkar, A. Achille, and S. Soatto,**"Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations,"** in European Conference on Computer Vision, 2020, vol. 12374 LNCS, pp. 383–398, doi: 10.1007/978-3-030-58526-6_23.
 ## 2021
 12. L. Bourtoule et al., **"Machine Unlearning,"** in 2021 IEEE Symposium on Security and Privacy (SP), May 2021, vol. 2021-May, pp. 141–159, doi: 10.1109/SP40001.2021.00019.
 13. A. Golatkar, A. Achille, A. Ravichandran, M. Polito, and S. Soatto, **"Mixed-Privacy Forgetting in Deep Networks,"** in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2021, pp. 792–801, doi: 10.1109/CVPR46437.2021.00085.
