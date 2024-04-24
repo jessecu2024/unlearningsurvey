@@ -1,3 +1,10 @@
+ # Machine Unlearning Related Paper Collection 
+* [2015-2021](#2015-2021)
+* [2022](#2022)
+* [2023](#2023)
+  
+## 2015-2021 
+
 1. Y. Cao and J. Yang, **"Towards making systems forget with machine unlearning,"** in Proceedings - IEEE Symposium on Security and Privacy, 2015, vol. 2015-July, pp. 463–480, doi: 10.1109/SP.2015.35.
 2. B. Mirzasoleiman, A. Karbasi, and A. Krause, **"Deletion-robust submodular maximization: Data summarization with ‘the right to be forgotten,’"** in 34th International Conference on Machine Learning, ICML 2017, 2017, vol. 5, pp. 3780–3790.
 3. A. A. Ginart, M. Y. Guan, G. Valiant, and J. Zou, **"Making AI forget you: Data deletion in machine learning,"** in Advances in Neural Information Processing Systems, 2019, vol. 32, no. NeurIPS, pp. 1–14.
@@ -17,6 +24,7 @@
 17. L. Bourtoule et al., **"Machine Unlearning,"** in 2021 IEEE Symposium on Security and Privacy (SP), May 2021, vol. 2021-May, pp. 141–159, doi: 10.1109/SP40001.2021.00019.
 18. V. Gupta, C. Jung, S. Neel, A. Roth, S. Sharifi-Malvajerdi, and C. Waites, **"Adaptive Machine Unlearning,"** in Advances in Neural Information Processing Systems, 2021, vol. 20, no. NeurIPS, pp. 16319–16330.
 19. A. Sekhari, J. Acharya, G. Kamath, and A. T. Suresh, **"Remember What YouWant to Forget: Algorithms for Machine Unlearning,"** in Advances in Neural Information Processing Systems, 2021, vol. 22, no. NeurIPS, pp. 18075–18086.
+## 2022 
 20. C. Pan and E. Chien, **"Unlearning Graph Classifiers with Limited Data Resources,"** in WWW, 2022, pp. 716–726, doi: 10.1145/3543507.3583547.
 21. Y. Jiang, S. Liu, T. Zhao, W. Li, and X. Gao, **"Machine unlearning survey,"** CSUR, p. 5, 2022, doi: 10.1117/12.2660330.
 22. T. Baumhauer, P. Schöttle, and M. Zeppelzauer, **"Machine unlearning: linear filtration for logit-based classifiers,"** Machine Learning, vol. 111, no. 9, pp. 3203–3226, 2022, doi: 10.1007/s10994-022-06178-9.
@@ -38,7 +46,8 @@
 38. C. Chen, F. Sun, M. Zhang, and B. Ding, **"Recommendation Unlearning,"** in WWW 2022 - Proceedings of the ACM Web Conference 2022, 2022, pp. 2768–2777, doi: 10.1145/3485447.3511997.
 39. T. T. Nguyen, T. T. Huynh, P. Le Nguyen, A. W.-C. Liew, H. Yin, and Q. V. H. Nguyen, **"A Survey of Machine Unlearning,"** 2022. http://arxiv.org/abs/2209.02299.
 40. A. Thudi, H. Jia, I. Shumailov, and N. Papernot, **"On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning,"** in Proceedings of the 31st USENIX Security Symposium, Security 2022, 2022, pp. 4007–4022.
-41. J. Z. Di, J. Douglas, J. Acharya, G. Kamath, and A. Sekhari, **"Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2022, no. NeurIPS, pp. 1–27.
+## 2023 
+41. J. Z. Di, J. Douglas, J. Acharya, G. Kamath, and A. Sekhari, **"Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2023, no. NeurIPS, pp. 1–27.
 42. H. Lin, J. W. Chung, Y. Lao, and W. Zhao, **"Machine Unlearning in Gradient Boosting Decision Trees,"** in Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Aug. 2023, pp. 1374–1383, doi: 10.1145/3580305.3599420.
 43. N. Su and B. Li, **"Asynchronous Federated Unlearning,"** Proc.~IEEE Conference on Computer Communications (INFOCOM), 2023.
 44. X. Zhu, G. Li, and W. Hu, Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning, vol. 1, no. 1. Association for Computing Machinery, 2023.
@@ -63,6 +72,7 @@
 63. R. Chen et al., **"Fast Model Debias with Machine Unlearning,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2023, no. NeurIPS, pp. 1–24.
 64. J. Jia et al., **"Model Sparsity Can Simplify Machine Unlearning,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2023, no. NeurIPS, pp. 1–22.
 65. Y. Li, D. Meng, and J. Wang, **"UltraRE : Enhancing RecEraser for Recommendation Unlearning via Error Decomposition,"** in 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 2023, no. ML.
+## 2024
 66. A. Oesterling, J. Ma, F. P. Calmon, and H. Lakkaraju, **"Fair Machine Unlearning: Data Removal while Mitigating Disparities,"** in Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024, 2023, vol. 238.
 67. Y. Zhao, C. Li, and K. Chen, **"UMA: Facilitating Backdoor Scanning via Unlearning-Based Model Ablation,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 19, pp. 21823–21831, 2024, doi: 10.1609/aaai.v38i19.30183.
 68. Z. Liu, T. Wang, M. Huai, and C. Miao, **"Backdoor Attacks via Machine Unlearning,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 13, pp. 14115–14123, Mar. 2024, doi: 10.1609/aaai.v38i13.29321.
@@ -71,7 +81,7 @@
 71. H. Kim, S. Lee, and S. S. Woo, **"Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 19, pp. 21241–21248, Mar. 2024, doi: 10.1609/aaai.v38i19.30118.
 72. X. You, J. Xu, M. Zhang, Z. Gao, and M. Yang, **"RRL: Recommendation Reverse Learning,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 8, pp. 9323–9331, 2024, doi: 10.1609/aaai.v38i8.28785.
 73. S. Moon, S. Cho, and D. Kim, **"Feature Unlearning for Pre-trained GANs and VAEs,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 19, pp. 21420–21428, 2024, doi: 10.1609/aaai.v38i19.30138.
-74. Y. Fraboni, L. Kameni, I. Paris, R. Vidal, M. Lorenzi, and I. Sophia-antipolis, **"SIFU : Sequential Informed Federated Unlearning for E cient and Provable Client Unlearning in Federated Optimization,"** in AISTATS 2024, 2024, vol. 238.
+74. Y. Fraboni, L. Kameni, I. Paris, R. Vidal, M. Lorenzi, and I. Sophia-antipolis, **"SIFU : Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization,"** in AISTATS 2024, 2024, vol. 238.
 75. C. Fu, W. Jia, and N. Ruan, **"Client-Free Federated Unlearning via Training Reconstruction with Anchor Subspace Calibration,"** in ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Apr. 2024, pp. 9281–9285, doi: 10.1109/ICASSP48485.2024.10447085.
 76. X. Gao et al., **"VeriFi: Towards Verifiable Federated Unlearning,"** IEEE Transactions on Dependable and Secure Computing, pp. 1–16, 2024, doi: 10.1109/TDSC.2024.3382321.
 77. J. Foster, S. Schoepf, and A. Brintrup, **"Fast Machine Unlearning without Retraining through Selective Synaptic Dampening,"** Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 11, pp. 12043–12051, Mar. 2024, doi: 10.1609/aaai.v38i11.29092.
