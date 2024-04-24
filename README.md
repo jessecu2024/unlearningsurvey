@@ -1,4 +1,4 @@
- # Machine Unlearning Related Paper Collection 
+ # Machine Unlearning
 * [2015-2021](#2015-2021)
 * [2022](#2022)
 * [2023](#2023)
