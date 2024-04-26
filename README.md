@@ -1,4 +1,7 @@
  # Machine Unlearning
+ This is a repo for my machine unlearning survey. 
+[1] **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240.
+
 * [2015-2020](#2015-2020)
 * [2021](#2021)
 * [2022](#2022)
