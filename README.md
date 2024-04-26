@@ -1,5 +1,6 @@
  # Machine Unlearning
- This is a repo for my machine unlearning survey. 
+😉 This is a repo for my machine unlearning survey. 
+ 
 [1] **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240.
 
 * [2015-2020](#2015-2020)
@@ -92,3 +93,5 @@
 77. X. Gao et al., **"VeriFi: Towards Verifiable Federated Unlearning,"** IEEE Transactions on Dependable and Secure Computing, pp. 1–16, 2024, doi: 10.1109/TDSC.2024.3382321.
 78. C. Fu, W. Jia, and N. Ruan, **"Client-Free Federated Unlearning via Training Reconstruction with Anchor Subspace Calibration,"** in ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Apr. 2024, pp. 9281–9285, doi: 10.1109/ICASSP48485.2024.10447085.
 79. Y. Fraboni, L. Kameni, I. Paris, R. Vidal, M. Lorenzi, and I. Sophia-antipolis, **"SIFU : Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization,"** in AISTATS 2024, 2024, vol. 238.
+
+😉 You can also refer a good repo for machine unlearning： https://github.com/jjbrophy47/machine_unlearning.
